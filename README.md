@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godbehere
 - 👀 I’m interested in an entry level web development job
-- 🌱 I’m currently learning node.js, flutter, kotlin, JavaScript, HTML, python, CSS
+- 🌱 I’m currently learning node.js, flutter, kotlin, JavaScript, Redux, HTML, python, CSS
 - 💞️ I’m looking to collaborate on any front end development projects
 - 📫 How to reach me: godbehere@gmail.com
 
