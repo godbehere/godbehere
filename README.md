@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @godbehere
-- 👀 I’m interested in an entry level web development job
-- 🌱 I’m currently learning node.js, flutter, kotlin, JavaScript, Redux, HTML, python, CSS
-- 💞️ I’m looking to collaborate on any front end development projects
+- 👀 I’m interested in a lead dev role somewhere with challenging projects to contribute to
+- 🌱 My daily dev stack is Linux, Java, node.js, Azure. I also work with docker, mySQL, postgres
+- 💞️ I’m looking to collaborate on exciting development projects
 - 📫 How to reach me: godbehere@gmail.com
 
 <!---
